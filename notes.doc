@@ -1,0 +1,9 @@
+#git commands:-
+git init
+git pull
+git add .
+git commit -m "message"
+git remote add origin "link/url"
+git branch
+git branch -M main
+git push -u origin main
